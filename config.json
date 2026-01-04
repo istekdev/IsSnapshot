@@ -12,7 +12,7 @@
       "owner": null,
       "repository": null
     },
-    "directory": "snapshots/",
+    "directory": "/snapshots/",
     "delay": 5
   },
   "tampered": false
