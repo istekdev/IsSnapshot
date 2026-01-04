@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "version": 1,
+    "developer": "ISTEK",
+    "github": "https://github.com/istekdev/IsSnapshot",
+    "external": "https://raw.githubusercontent.com/istekdev/IsSnapshot/refs/heads/main/config.json",
+    "created": 1767509397,
+    "verifyHash": "c2f6f1cfde16b7242bf6715f7da6e86164025342745e40858d23494b4c4b6ab6"
+  },
+  "program": {
+    "repository": null,
+    "delay": 5
+  }
+}
