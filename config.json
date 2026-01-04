@@ -11,5 +11,6 @@
     "repository": null,
     "directory": "snapshots/",
     "delay": 5
-  }
+  },
+  "tampered": false
 }
