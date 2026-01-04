@@ -9,6 +9,7 @@
   },
   "program": {
     "repository": null,
+    "directory": "snapshots/",
     "delay": 5
   }
 }
